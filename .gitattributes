@@ -1,1 +1,1 @@
-실습1차_LSTM/household_power_consumption.txt filter=lfs diff=lfs merge=lfs -text
+LSTM/household_power_consumption.txt filter=lfs diff=lfs merge=lfs -text
