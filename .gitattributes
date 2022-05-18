@@ -1,1 +1,2 @@
 LSTM/household_power_consumption.txt filter=lfs diff=lfs merge=lfs -text
+prices.csv filter=lfs diff=lfs merge=lfs -text
